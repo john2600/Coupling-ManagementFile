@@ -1,0 +1,6 @@
+http://www.mkyong.com/java/how-to-write-to-file-in-java-fileoutputstream-example/
+https://blog.jooq.org/2014/01/24/java-8-friday-goodies-the-new-new-io-apis/
+http://www.mkyong.com/java/how-to-read-file-from-java-bufferedreader-example/
+http://stackoverflow.com/questions/14294811/how-to-test-write-to-file-in-java
+http://blog.codeleak.pl/2015/01/testing-with-files-and-directories-in.html
+
